@@ -383,7 +383,7 @@ All images are cached on GitHub, so if your host goes down, the image will remai
 There are multiple ways of embedding images in Wiki pages. There's the standard Markdown syntax (shown above). But there's also a syntax that allows things like specifying the height or width of the image:
 
 ```markdown
-[[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
+[[ https://github.com/Darth4212/Files/blob/master/SublimeTextCrack.gif?raw=true | height = 100px ]]
 ```
 
 Which produces:
