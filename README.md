@@ -375,7 +375,7 @@ Raw images from the repo can be used by calling them directly.:
 ![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
 ```
 
-![Peter don't care](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
+![Peter don't care](https://github.com/Darth4212/Files/blob/master/SublimeTextCrack.gif?raw=true)
 
 All images are cached on GitHub, so if your host goes down, the image will remain available.
 
